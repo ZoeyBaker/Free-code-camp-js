@@ -1,0 +1,14 @@
+var myName = "Zoey"
+
+myName = 8
+
+
+
+
+
+let ourName = "freeCodeCamp" 
+
+const pi = 3.14
+
+var a;
+var b = 2; 
